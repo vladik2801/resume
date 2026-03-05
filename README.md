@@ -1,4 +1,4 @@
-<img src="photo.jpg" width="140" align="right" style="margin-left:20px;" alt="Фото">
+<img src="ava.jpg" width="140" align="right" style="margin-left:20px;" alt="Фото">
 
 # Владислав Сорокин
 
