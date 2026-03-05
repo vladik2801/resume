@@ -1,6 +1,4 @@
-<table>
-<tr>
-<td width="70%">
+<img src="photo.jpg" width="140" align="right" style="margin-left:20px;" alt="Фото">
 
 # Владислав Сорокин
 
@@ -10,15 +8,7 @@
 💬 Telegram: @ITmachine_fullstack  
 💻 GitHub: https://github.com/vladik2801  
 
-</td>
-
-<td width="30%" align="center">
-
-<img src="ava.jpg" width="140" alt="Фото">
-
-</td>
-</tr>
-</table>
+<br clear="right">
 
 ---
 
