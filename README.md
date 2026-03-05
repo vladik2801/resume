@@ -14,7 +14,7 @@
 
 <td width="30%" align="center">
 
-<img src="photo.jpg" width="140" alt="Фото">
+<img src="ava.jpg" width="140" alt="Фото">
 
 </td>
 </tr>
