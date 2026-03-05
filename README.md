@@ -1,6 +1,4 @@
-<p align="left">
-  <img src="ava.jpg" width="140" alt="Фото">
-</p>
+<img src="photo.jpg" width="140" align="left" alt="Фото">
 
 # Владислав Сорокин
 
@@ -10,8 +8,9 @@
 💬 Telegram: @ITmachine_fullstack  
 💻 GitHub: https://github.com/vladik2801  
 
----
+<br clear="left">
 
+---
 ## О себе
 
 Студент 2 курса университета ИТМО, обучаюсь по направлению «Разработка программного обеспечения».
