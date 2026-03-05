@@ -1,14 +1,17 @@
-<img src="ava.jpg" width="140" align="left" alt="Фото">
-
-# Владислав Сорокин
-
-**Резюме на позицию стажёра Backend-разработчика (Go)**
-
-📧 Email: vladik2801@gmail.com  
-💬 Telegram: @ITmachine_fullstack  
-💻 GitHub: https://github.com/vladik2801  
-
-<br clear="left">
+<div style="display:flex; align-items:flex-start; gap:16px;">
+  <div style="flex:1;">
+    <h1>Владислав Сорокин</h1>
+    <p><b>Резюме на позицию стажёра Backend-разработчика (Go)</b></p>
+    <p>
+      📧 Email: vladik2801@gmail.com<br>
+      💬 Telegram: @ITmachine_fullstack<br>
+      💻 GitHub: https://github.com/vladik2801
+    </p>
+  </div>
+  <div>
+    <img src="ava.jpg" width="140" alt="Фото">
+  </div>
+</div>
 
 ---
 ## О себе
