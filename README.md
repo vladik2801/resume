@@ -1,6 +1,4 @@
-<table>
-<tr>
-<td>
+<img align="right" src="ava.jpg" width="150" alt="Фото">
 
 # Владислав Сорокин
 
@@ -9,14 +7,6 @@
 📧 Email: vladik2801@gmail.com  
 💬 Telegram: @ITmachine_fullstack  
 💻 GitHub: https://github.com/vladik2801  
-
-</td>
-
-<td>
-<img src="ava.jpg" width="160" alt="Фото">
-</td>
-</tr>
-</table>
 
 ---
 
